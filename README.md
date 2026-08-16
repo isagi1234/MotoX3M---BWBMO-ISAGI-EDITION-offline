@@ -4,7 +4,7 @@
 
 ### *Modified & Enhanced Version*
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/BWBMO/MotoX3M)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]([https://github.com/BWBMO/MotoX3M](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/))
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 
