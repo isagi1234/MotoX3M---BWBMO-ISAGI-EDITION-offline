@@ -50,8 +50,7 @@
 *Game Modification, Enhancement & Distribution*
 
 [![GitHub](https://img.shields.io/badge/GitHub-isagi1234-181717?style=for-the-badge&logo=github)](https://github.com/isagi1234)
-[![Discord](https://img.shields.io/badge/Discord-BWBMO-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/your-server)
-[![YouTube](https://img.shields.io/badge/YouTube-BWBMO-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@your-channel)
+[![Discord](https://img.shields.io/badge/Discord-marouan_aouzal-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/marouan_aouzal)
 
 **© 2026 BWBMO - ISAGI. All Rights Reserved.**
 
@@ -266,6 +265,11 @@ If you enjoyed this project, please consider:
 💬 Leaving feedback
 
 🍴 Forking for your own use
+
+📱 Connect With Me
+<div align="center">
+https://img.shields.io/badge/GitHub-isagi1234-181717?style=for-the-badge&logo=github
+https://img.shields.io/badge/Discord-marouan_aouzal-5865F2?style=for-the-badge&logo=discord
 
 </div>
 <div align="center">
