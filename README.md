@@ -106,9 +106,11 @@ cd MotoX3M---BWBMO-ISAGI-EDITION-offline
 open index.html      # macOS
 start index.html     # Windows
 xdg-open index.html  # Linux
+```
 
 ### 🌐 Method 3: Local Server (Recommended)
 
+```bash
 # Python 3
 python -m http.server 8000
 
@@ -120,7 +122,9 @@ npx serve
 
 # PHP
 php -S localhost:8000
-Then open: http://localhost:8000 in your browser.
+```
+
+**Then open:** `http://localhost:8000` in your browser.
 
 🛠️ System Requirements
 Component	Minimum Requirement
