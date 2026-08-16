@@ -4,7 +4,7 @@
 
 ### *Modified & Enhanced Version*
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]([[https://github.com/BWBMO/MotoX3M](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/))
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 
@@ -33,8 +33,7 @@
 
 *Game Modification & Enhancement*
 
-[![GitHub](https://img.shields.io/badge/GitHub-BWBMO-181717?style=for-the-badge&logo=github)](https://github.com/BWBMO)
-[![Discord](https://img.shields.io/badge/Discord-BWBMO-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/your-server)
+[![GitHub](https://img.shields.io/badge/GitHub-isagi1234-181717?style=for-the-badge&logo=github)](https://github.com/isagi1234)
 
 </div>
 
@@ -65,6 +64,6 @@
 ### 💻 **Method 2: Clone with Git**
 
 ```bash
-git clone https://github.com/BWBMO/MotoX3M.git
-cd MotoX3M
+git clone https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline.git
+cd MotoX3M---BWBMO-ISAGI-EDITION-offline
 open index.html  # or double-click the file
