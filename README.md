@@ -106,8 +106,9 @@ cd MotoX3M---BWBMO-ISAGI-EDITION-offline
 open index.html      # macOS
 start index.html     # Windows
 xdg-open index.html  # Linux
-🌐 Method 3: Local Server (Recommended)
-bash
+
+### 🌐 Method 3: Local Server (Recommended)
+
 # Python 3
 python -m http.server 8000
 
@@ -129,6 +130,7 @@ Internet Connection	Not Required (Offline Ready)
 Storage Space	~50 MB
 RAM	512 MB minimum
 Processor	Any modern processor
+
 🎯 Game Controls
 <table align="center"> <tr> <th>Key</th> <th>Action</th> <th>Key</th> <th>Action</th> </tr> <tr> <td align="center"><kbd>↑</kbd> or <kbd>W</kbd></td> <td>Accelerate</td> <td align="center"><kbd>↓</kbd> or <kbd>S</kbd></td> <td>Brake</td> </tr> <tr> <td align="center"><kbd>←</kbd> or <kbd>A</kbd></td> <td>Lean Left</td> <td align="center"><kbd>→</kbd> or <kbd>D</kbd></td> <td>Lean Right</td> </tr> <tr> <td align="center"><kbd>R</kbd></td> <td>Restart Level</td> <td align="center"><kbd>Space</kbd></td> <td>Start / Pause</td> </tr> </table>
 📂 File Structure
