@@ -267,6 +267,7 @@ this software for any purpose, subject to the following conditions:
 1. This copyright notice shall be included in all copies
 2. Credit shall be given to BWBMO - ISAGI
 3. This software is provided "as is" without warranty
+```
 
 ## 📦 **Direct Download**
 
