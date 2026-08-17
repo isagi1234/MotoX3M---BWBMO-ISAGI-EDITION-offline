@@ -6,12 +6,14 @@
 
 ### *The Ultimate Modified Racing Experience*
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/releases/tag/v1.0.0)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
 [![Status](https://img.shields.io/badge/status-stable-brightgreen.svg?style=for-the-badge&logo=statuspage)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline)
 [![Downloads](https://img.shields.io/github/downloads/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/total?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/releases)
 [![Stars](https://img.shields.io/github/stars/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/stargazers)
 [![Forks](https://img.shields.io/github/forks/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/forks)
+[![Issues](https://img.shields.io/github/issues/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/commits/main)
 
 ---
 
