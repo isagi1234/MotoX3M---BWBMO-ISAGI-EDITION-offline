@@ -253,10 +253,11 @@ Use the local server method
 ✅ Disabled all ad networks
 
 </details>
-📜 License
-This project is based on the original MotoX3M game. All modifications are licensed under the MIT License.
+## 📜 **License**
 
-text
+This project is based on the original **MotoX3M** game. All modifications are licensed under the **MIT License**.
+
+```text
 MIT License - 2026 BWBMO - ISAGI
 
 Permission is hereby granted to use, copy, modify, and distribute
@@ -265,9 +266,15 @@ this software for any purpose, subject to the following conditions:
 1. This copyright notice shall be included in all copies
 2. Credit shall be given to BWBMO - ISAGI
 3. This software is provided "as is" without warranty
-📦 Direct Download
-⬇️ Download Latest Version
-👥 Contributors
+
+## 📦 **Direct Download**
+
+### [⬇️ Download Latest Version](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/archive/refs/heads/main.zip)
+
+---
+
+## 👥 **Contributors**
+
 <table align="center"> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/isagi1234" width="100px;" alt="BWBMO - ISAGI"/> <br /> <b>BWBMO - ISAGI</b> <br /> <a href="https://github.com/isagi1234">GitHub</a> <br /> <sub>Lead Developer & Modder</sub> </td> </tr> </table>
 🤝 Contributing
 Contributions are welcome! Please feel free to:
