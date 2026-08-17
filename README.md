@@ -277,37 +277,72 @@ this software for any purpose, subject to the following conditions:
 
 ## 👥 **Contributors**
 
-<table align="center"> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/isagi1234" width="100px;" alt="BWBMO - ISAGI"/> <br /> <b>BWBMO - ISAGI</b> <br /> <a href="https://github.com/isagi1234">GitHub</a> <br /> <sub>Lead Developer & Modder</sub> </td> </tr> </table>
-🤝 Contributing
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/isagi1234" width="120px;" style="border-radius:50%;" alt="BWBMO - ISAGI"/>
+      <br />
+      <b>BWBMO - ISAGI</b>
+      <br />
+      <a href="https://github.com/isagi1234">GitHub</a>
+      <br />
+      <sub>Lead Developer & Modder</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 **Contributing**
+
 Contributions are welcome! Please feel free to:
 
-🐛 Report bugs
+- 🐛 Report bugs
+- 💡 Suggest features
+- 🔧 Submit pull requests
 
-💡 Suggest features
+### 📝 **How to Contribute**
 
-🔧 Submit pull requests
+1. **Fork** the repository
+2. **Create** a new branch (`git checkout -b feature/amazing`)
+3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
+4. **Push** to the branch (`git push origin feature/amazing`)
+5. **Open** a Pull Request
 
-⭐ Support This Project
+---
+
+## ⭐ **Support This Project**
+
 If you enjoyed this project, please consider:
 
-⭐ Starring this repository
+- ⭐ **Starring** this repository
+- 🔗 **Sharing** with friends
+- 💬 **Leaving** feedback
+- 🍴 **Forking** for your own use
 
-🔗 Sharing with friends
+---
 
-💬 Leaving feedback
+## 📱 **Connect With Me**
 
-🍴 Forking for your own use
-
-📱 Connect With Me
 <div align="center">
-https://img.shields.io/badge/GitHub-isagi1234-181717?style=for-the-badge&logo=github
-https://img.shields.io/badge/Discord-marouan_aouzal-5865F2?style=for-the-badge&logo=discord
+
+[![GitHub](https://img.shields.io/badge/GitHub-isagi1234-181717?style=for-the-badge&logo=github)](https://github.com/isagi1234)
+[![Discord](https://img.shields.io/badge/Discord-marouan_aouzal-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/marouan_aouzal)
 
 </div>
+
+---
+
+## 📜 **Legal**
+
 <div align="center">
-🏍️ Ride Fast, Have Fun!
-Made with ❤️ by BWBMO - ISAGI
+
+🏍️ *Ride Fast, Have Fun!*
+
+**Made with ❤️ by BWBMO - ISAGI**
 
 © 2026 BWBMO - ISAGI. All Rights Reserved.
 
-</div> ```
+</div>
+
+---
