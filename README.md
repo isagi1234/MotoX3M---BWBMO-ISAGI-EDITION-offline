@@ -126,14 +126,28 @@ php -S localhost:8000
 
 **Then open:** `http://localhost:8000` in your browser.
 
-🛠️ System Requirements
-Component	Minimum Requirement
-Operating System	Windows 7+, macOS 10.13+, Linux
-Browser	Chrome 60+, Firefox 60+, Edge 80+, Safari 12+
-Internet Connection	Not Required (Offline Ready)
-Storage Space	~50 MB
-RAM	512 MB minimum
-Processor	Any modern processor
+## 🛠️ **System Requirements**
+
+| Component | Minimum Requirement |
+|-----------|---------------------|
+| **Operating System** | Windows 7+, macOS 10.13+, Linux |
+| **Browser** | Chrome 60+, Firefox 60+, Edge 80+, Safari 12+ |
+| **Internet Connection** | Not Required (Offline Ready) |
+| **Storage Space** | ~50 MB |
+| **RAM** | 512 MB minimum |
+| **Processor** | Any modern processor |
+
+---
+
+### 💡 **Additional Notes**
+
+- ✅ **Fully Offline** - No internet connection needed after download
+- ✅ **Lightweight** - Only ~50 MB total size
+- ✅ **Cross-Platform** - Works on all major operating systems
+- ✅ **Browser Compatible** - Supports all modern browsers
+- ✅ **No Installation Required** - Just open `index.html` and play
+
+---
 
 🎯 Game Controls
 <table align="center"> <tr> <th>Key</th> <th>Action</th> <th>Key</th> <th>Action</th> </tr> <tr> <td align="center"><kbd>↑</kbd> or <kbd>W</kbd></td> <td>Accelerate</td> <td align="center"><kbd>↓</kbd> or <kbd>S</kbd></td> <td>Brake</td> </tr> <tr> <td align="center"><kbd>←</kbd> or <kbd>A</kbd></td> <td>Lean Left</td> <td align="center"><kbd>→</kbd> or <kbd>D</kbd></td> <td>Lean Right</td> </tr> <tr> <td align="center"><kbd>R</kbd></td> <td>Restart Level</td> <td align="center"><kbd>Space</kbd></td> <td>Start / Pause</td> </tr> </table>
