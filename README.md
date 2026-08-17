@@ -147,7 +147,7 @@ php -S localhost:8000
 ### 💡 **Additional Notes**
 
 - ✅ **Fully Offline** - No internet connection needed after download
-- ✅ **Lightweight** - Only ~50 MB total size
+- ✅ **Lightweight** - Only ~20 MB total size
 - ✅ **Cross-Platform** - Works on all major operating systems
 - ✅ **Browser Compatible** - Supports all modern browsers
 - ✅ **No Installation Required** - Just open `index.html` and play
