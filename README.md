@@ -79,7 +79,7 @@
 - ⚡ **Fast Loading** - Optimized asset loading for instant start
 - 🎯 **Smooth Gameplay** - Removed unnecessary processes
 - 📱 **Cross-Platform** - Works on all modern browsers
-- 💾 **Lightweight** - Only ~50MB total size
+- 💾 **Lightweight** - Only ~20MB total size
 
 ---
 
@@ -133,7 +133,7 @@ php -S localhost:8000
 | **Operating System** | Windows 7+, macOS 10.13+, Linux |
 | **Browser** | Chrome 60+, Firefox 60+, Edge 80+, Safari 12+ |
 | **Internet Connection** | Not Required (Offline Ready) |
-| **Storage Space** | ~50 MB |
+| **Storage Space** | ~20 MB |
 | **RAM** | 512 MB minimum |
 | **Processor** | Any modern processor |
 
