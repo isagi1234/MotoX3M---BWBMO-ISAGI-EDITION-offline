@@ -6,7 +6,7 @@
 
 ### *The Ultimate Modified Racing Experience*
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/releases/tag/game)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
 [![Status](https://img.shields.io/badge/status-stable-brightgreen.svg?style=for-the-badge&logo=statuspage)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline)
 [![Downloads](https://img.shields.io/github/downloads/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/total?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/releases)
@@ -14,6 +14,9 @@
 [![Forks](https://img.shields.io/github/forks/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/forks)
 [![Issues](https://img.shields.io/github/issues/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline/commits/main)
+[![Size](https://img.shields.io/github/repo-size/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline?style=for-the-badge&logo=github)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline)
+[![Language](https://img.shields.io/github/languages/top/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline?style=for-the-badge&logo=javascript)](https://github.com/isagi1234/MotoX3M---BWBMO-ISAGI-EDITION-offline)
+[![Discord](https://img.shields.io/badge/Discord-marouan_aouzal-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/marouan_aouzal)
 
 ---
 
